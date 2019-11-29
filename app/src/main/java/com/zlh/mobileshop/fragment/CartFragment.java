@@ -1,0 +1,1 @@
+package com.zlh.mobileshop.fragment;import com.zlh.mobileshop.R;import com.zlh.mobileshop.common.BaseFragment;public class CartFragment extends BaseFragment {    @Override    public int getContentId() {        return R.layout.fragment_cart;    }}
